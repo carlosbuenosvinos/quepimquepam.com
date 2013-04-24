@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+    <post>
+        <title>Reyes 2012</title>
+        <description>
+            <![CDATA[
+                <p>
+                	Los intr�pidos exploradores se han portado muy bien este a�o, y es por eso que los Reyes Magos han decidido darles a elegir entre diferentes opciones. Para ir haciendo boca, han dejado unos videos de las opciones para ayudaros a decidir.
+		</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Varias opciones</title>
+        <description>
+            <![CDATA[
+                <p>
+                    Ayudamos de dos maneras, haciendo consultoría de implantaciones y formación, tanto abierta como cerrada para empresas.
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Formación</title>
+        <description>
+            <![CDATA[
+                <p>La formación es nuestra vocación frustrada. Nos gusta explicar cosas y explicarlas bien, montar sesiones muy dinámicas donde nuestros alumnos se lo pasen en grande y al salir, puedan iniciar la revolución ágil dentro de sus empresas.</p>
+                <p>A parte del desarrollo web y la consultoría tecnológica, ofrecemos formación sobre scrum y metodologías ágiles a diferentes niveles:</p>
+                <ul>
+                    <li>Cursos de formación sobre Scrum para Empresas</li>
+                    <li>Certified Scrum Master Training (CSM) - Cursos Certificados para Scrum Masters</li>
+                    <li>Certified Scrum Product Owner Training (CSPO) - Cursos Certificados para Product Owner</li>
+                    <li>Sesiones específicas sobre aspectos concretos de Scrum (estimaciones, planning, restrospectivas, etc.)</li>
+                </ul>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Ponencias</title>
+        <description>
+            <![CDATA[
+                <p>Aquí os linkamos algunas de las ponencias que nuestro equipo de Scrum ha dirigido en algunos eventos a los que hemos sido invitados.</p>
+                <div style="margin-left: 15px; width:425px" id="__ss_5622339"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/carlosbuenosvinos/scrum-al-detalle-revision-prctica-y-perversiones-humanas" title="Scrum al Detalle: Revision práctica y perversiones humanas">Scrum al Detalle: Revision práctica y perversiones humanas</a></strong><object id="__sse5622339" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumaldetalle-revisionprcticayperversioneshumanas-101031093640-phpapp02&rel=0&stripped_title=scrum-al-detalle-revision-prctica-y-perversiones-humanas&userName=carlosbuenosvinos" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse5622339" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumaldetalle-revisionprcticayperversioneshumanas-101031093640-phpapp02&rel=0&stripped_title=scrum-al-detalle-revision-prctica-y-perversiones-humanas&userName=carlosbuenosvinos" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object></div>
+                <div style="margin-left: 15px; width:425px" id="__ss_5542626"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/carlosbuenosvinos/scrum-en-grupo-intercom" title="Scrum en Grupo Intercom">Scrum en Grupo Intercom</a></strong><object id="__sse5542626" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumengrupo-101024051703-phpapp01&rel=0&stripped_title=scrum-en-grupo-intercom&userName=carlosbuenosvinos" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse5542626" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumengrupo-101024051703-phpapp01&rel=0&stripped_title=scrum-en-grupo-intercom&userName=carlosbuenosvinos" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object></div>            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Equipo de Formación</title>
+        <description>
+            <![CDATA[
+                <p>Los frikis que estamos detrás de Scrum en QuePimQuePam y que participamos en otras miles de historias para conseguir equipo de desarrollo más eficientes y alegres somos:</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Carlos Buenosvinos</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="http://www.gravatar.com/avatar/cec9b9fe8db3d61dc05298207204af76?s=80" width="40" height="40" class="float-left" />
+                Scrum Master Certified (camino de SCP) en Emagister.com y especialista en Metodologías Ágiles. Zend PHP y Zend Framework Certified Developer y cofundador de la PHP Barcelona User Group y la PHP Barcelona Conference.
+                (<a href="mailto:carlos@quepimquepam.com">carlos@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Jordi Rubio</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/jordi.jpg" width="40" height="40" class="float-left" />
+                CTO y Scrum Master en Grupo Intercom Factory. Especialista en Metodologías Ágiles (Scrum, Kanban, XP, etc.)
+                (<a href="mailto:jordi@quepimquepam.com">jordi@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+</posts>

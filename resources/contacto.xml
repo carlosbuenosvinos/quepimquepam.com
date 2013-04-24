@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+    <post>
+        <title>Servicios</title>
+        <tags/>
+        <description>
+            <![CDATA[
+                <p>Tienes la solución de tus problemas, al alcance de tu mano. Llámanos y te sorprenderá cómo nuestro equipo se hará partícipe de tus necesidades. No encontrarás a nadie, que se implique de tal manera con sus clientes. Nos encanta ser pequeños para poder ser ágiles y dar un servicio personalizado a nuestros clientes. En resumen, nos encanta <a href="http://es.wikipedia.org/wiki/Jerry_Maguire" target="_blank">Jerry McGuire</a>.</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Auditoría</title>
+        <tags/>
+        <description>
+            <![CDATA[
+                <ul>
+                    <li>Auditoría de las Cuentas anuales individuales</li>
+                    <li>Auditoría de las Cuentas anuales consolidadas</li>
+                    <li>Revisión y verificación de estados y documentos contables sujetos a ordenamiento legal: Informes especiales, Certificaciones, Pruebas Periciales, etc.</li>
+                    <li>Compilación de la información contable y preparación de los estados financieros conforme a principios y normas de contabilidad específicas y/o de acuerdo con estándares internacionales.</li>
+                    <li>Auditoria de los Estados Financieros para la compra o venta de Sociedades "Due Dilligence" completos o específicos.</li>
+                    <li>Emisión de recomendaciones para la mejora o adecuación de los sistemas financieros, de las políticas contables y del control interno.</li>
+                </ul>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Consultoría</title>
+        <tags/>
+        <description>
+            <![CDATA[
+                <ul>
+                    <li>Planes de viabilidad</li>
+                    <li>Re-estructuración y reflotamiento de empresa</li>
+                    <li>Auditoría de Gestión</li>
+                    <li>Dirección y Estrategia</li>
+                    <li>Finanzas y costes</li>
+                    <li>Organización y Recursos Humanos</li>
+                    <li>Empresa Familiar</li>
+                    <li>Tecnología y sistemas de la información</li>
+                </ul>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Corporate Finance</title>
+        <tags/>
+        <description>
+            <![CDATA[
+            <ul>
+                <li>Tecnología y sistemas de la información</li>
+                <li>Compra-venta de empresas</li>
+                <li>Fusiones</li>
+                <li>Compra-venta de activos</li>
+                <li>Finanzas y costes</li>
+                <li>Due Dilligence</li>
+                <li>Búsqueda de socios industriales</li>
+                <li>Búsqueda de socios financieros</li>
+            </ul>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Salus Consulting</title>
+        <description>
+            <![CDATA[
+                <ul>
+                    <li>Outsorcing departamentos financieros y gestión: Contabilidad, presupuestos, reportings, cuadros de mando integral, etc.</li>
+                    <li>Gestión Integral de Empresas</li>
+                    <li>Planes funcionales</li>
+                    <li>Planes estratégicos</li>
+                </ul>
+            ]]>
+        </description>
+    </post>
+</posts>

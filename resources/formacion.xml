@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+    <post>
+        <title>Formación</title>
+        <description>
+            <![CDATA[
+                <p>La vocación frustrada <strong>QuePimQuePam.com</strong>, las fuerzas especiales planean cómo defender a los indefensos generadores de ideas de la desidia y las consultoras "cutres".</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Video de Presentación</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="http://www.gravatar.com/avatar/cec9b9fe8db3d61dc05298207204af76?s=80" width="40" height="40" class="float-left" />
+                El artífice de esta historia, de este montaje. Un ferviente creyente en hacer las cosas bien, de facilitar la vida a los demás, de generar entusiasmo a través de agregar valor, generar resultado.
+                (<a href="mailto:carlos@quepimquepam.com">carlos@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Video #1</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/juanlu.jpg" width="40" height="40" class="float-left" />
+                En el rincón izquierdo con 78 kilos de peso, calzón rojo, el mejor SOA Client Architect de Oracle, certificado en todo lo certificable en JSE, JEE además de Oracle SOA Architect, experto en arquitecturas SOA, Oracle FusionMiddleware (Oracle WebLogic Server, Oracle Service Bus y Oracle Coherence) y otros servidores de aplicaciones y software libre para la empresa, JuanLuuuu Goodwines.
+                (<a href="mailto:juanluis@quepimquepam.com">juanluis@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Scrum Series - Roles: Product Owner</title>
+        <description>
+            <![CDATA[
+                <p></p>
+            ]]>
+        </description>
+    </post>
+</posts>

@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta name="Description" content="Generación de Entusiasmo para Minorías Inquietas (también hacemos webs)" />
+        <meta name="Keywords" content="desarrollo web barcelona, desarrollo web, barcelona, php, desarrollo php, desarrollador php, Agile, Momentum, Pasion, Lean, StartUp, Scrum, XP, Basecamp, Continuous Integration, Continuous Deployment, Git, TDD, PHP, Zend Framework, CSS, XHTML, Javascript, jQuery, ExtJS, AJAX, Python, Erlang, Machine Learning, Data Mining, NoSQL, MySQL, Analytics, Google, Cloud Computing, Email, Hosting, Virtual Servers, Web Services, REST, XML, SOA, Comunidad" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="Distribution" content="Global" />
+        <meta name="Robots" content="index,follow" />
+        <meta name="google-site-verification" content="LisyeJ59AsxfZDtkYl03cX96moxMcbuEH8TFeygsqJI" />
+        <link href="images/favicon.png" type="image/x-icon" rel="shortcut icon" />
+        <link rel="stylesheet" href="css/style.css" type="text/css" />
+        <?php echo $this->headTitle() ?>
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-6462211-14']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+    </head>
+    <body>
+        <!-- header starts here -->
+        <div id="header">
+            <div id="clouds"></div>
+            <h1 id="logo-text"><a href="/" title="¿Qué haces con el ratón encima del logotipo, esperas que ocurra alguna cosa especial?">QuePimQuePam.com</a></h1>
+            <p id="slogan">Generación de Entusiasmo para Minorías Inquietas<br />
+            <span style="">(+ Consultoría y Desarrollo Web de Alto Impacto)</span>
+            </p>
+        </div>
+
+        <?php echo $this->renderMenu(); ?>
+
+        <!-- content-wrap starts here -->
+        <div id="content-wrap">
+            <div id="content">
+                <?php echo $this->render('widgets/sidebar.phtml') ?>
+
+                <div id="main">
+                    <?php echo $this->layout()->content; ?>
+                </div>
+            <!-- content-wrap ends here -->
+            </div>
+        </div>
+
+        <div id="footer-wrap">
+            <?php echo $this->render('widgets/footer.phtml') ?>
+        </div>
+    </body>
+</html>

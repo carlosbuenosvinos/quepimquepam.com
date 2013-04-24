@@ -1,0 +1,3 @@
+<?php foreach($this->posts as $post) { ?>
+    <?php echo $this->partial('content/post.phtml', array('post' => $post, 'view' => $this)); ?>
+<?php } ?>

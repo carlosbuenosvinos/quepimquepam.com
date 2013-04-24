@@ -1,0 +1,18 @@
+<div  id="nav">
+    <ul>
+        <?php 
+            foreach($this->options as $k => $option) { 
+                if ($k{0} == '_') {
+                    ?>
+                    <li<?php echo $option[2] ? ' id="current"' : ''; ?>><?php echo $this->translate($option[0]); ?></li>
+                    <?php
+                } else {
+                    ?>
+                    <li<?php echo $option[2] ? ' id="current"' : ''; ?>><a href="<?php echo $option[1]; ?>"><?php echo $this->translate($option[0]); ?></a></li>
+                    <?php
+                }
+            }
+        ?>
+    </ul>
+<!-- navigation ends--> 
+</div>                  

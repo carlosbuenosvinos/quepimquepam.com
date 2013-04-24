@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+    <post>
+        <title>PYMES</title>
+        <description>
+            <![CDATA[
+                <p><strong>QuePimQuePam.com</strong> lanza 3 packs con los que nuestros amigos pueden estar tranquilos a la hora de estar en Internet y ser más eficientes. El objetivo es que os despreocupéis de lo básico y alguien piense en lo que está de moda, por vosotros.</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>¿Por qué?</title>
+        <description>
+            <![CDATA[
+                <p>Muchos de nuestros conocidos no están muy contentos con sus correspondientes servidores o empresas de soporte técnico, algunos de ellos estaban gestionados por algún sobrino de algún conocido, otros necesitaban un mantenimiento ágil y eficaz de todo lo relacionado con su presencia en Internet, así que algunos de ellos nos han pedido que les creemos la página web, que les gestionemos el correo electrónico, que les instalemos alguna herramienta para gestionar clientes y proyectos, etc.</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title><![CDATA[Pack Standard: 50 &euro;/mes]]></title>
+        <description>
+            <![CDATA[
+                <p>Un producto ideal para pequeñas consultoras, buffete de abogados, asociaciones, autónomos, etc.</p>
+                <ul>
+                    <li>Registro de Dominio (.es o .com)</li>
+                    <li>Correo Electrónico Corporativo (+ acceso por Webmail)</li>
+                    <li>Calendario Corporativo</li>
+                    <li>Contactos y Agenda Corporativos</li>
+                    <li>Página Web de Cortesía (Logo, Descripción e Información de Contacto)</li>
+                    <li>Integración con todo tipo de dispositivos móviles inteligentes (iPhone, iPad, Blackberry, Android, etc.)</li>
+                </ul>
+                <p>Algunos clientes con esta modalidad: <a href="http://www.stevebeer.com">Steve's Beer</a> o <a href="http://www.talleresperser.com">Talleres Perser</a></p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title><![CDATA[Pack Avanzado: 75 &euro;/mes]]></title>
+        <tags/>
+        <description>
+            <![CDATA[
+                <p>Un producto ideal para pequeñas empresas y negocios.</p>
+                <ul>
+                    <li>Servicios Pack Standard</li>
+                    <li>+ Página Web Completa</li>
+                    <li>+ Control de Visitas e Informe diario</li>
+                    <li>+ Blog</li>
+                    <li>+ Gestión de Imagen en Redes Sociales (twitter, facebook, linkedin, etc.)</li>
+                </ul>
+                <p>Algunos clientes con esta modalidad: <a href="http://www.sexperiences.es">Sexperiences.es</a> o <a href="http://www.musicadesign.net">MusicaDesign</a></p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title><![CDATA[Pack Premium: 100 &euro;/mes]]></title>
+        <tags/>
+        <description>
+            <![CDATA[
+                <p>Un producto ideal para empresas medianas.</p>
+                <ul>
+                    <li>Servicios Pack Avanzado</li>
+                    <li>+ Herramienta de Gestión de Proyectos</li>
+                    <li>+ Herramientas de Mejora del Negocio (CRM, SRM, ERP, etc.)</li>
+                </ul>
+                <p>Algunos clientes con esta modalidad:
+                <a href="http://www.lumenisac.es">Lumenisac - Auditoría y Consultoría</a> o <a href="http://www.tardaguila.net">Tardáguila Asociados</a></p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title><![CDATA[Packs Personalizados]]></title>
+        <description>
+            <![CDATA[
+                <p>Ok, no desesperes, si elegir entre un pack y otro es complicado, ponte en contacto con nosotros y te echaremos un cable para definir lo que necesitas.</p>
+            ]]>
+        </description>
+    </post>
+</posts>

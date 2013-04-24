@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<posts>
+    <post>
+        <title>Trincheras</title>
+        <description>
+            <![CDATA[
+                <p>En las trincheras de <strong>QuePimQuePam.com</strong>, las fuerzas especiales planean cómo defender a los indefensos generadores de ideas de la desidia y las consultoras "cutres".</p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Carlos Buenosvinos</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="http://www.gravatar.com/avatar/cec9b9fe8db3d61dc05298207204af76?s=80" width="40" height="40" class="float-left" />
+                El artífice de esta historia, de este montaje. Un ferviente creyente en hacer las cosas bien, de facilitar la vida a los demás, de generar entusiasmo a través de agregar valor, generar resultado.
+                (<a href="mailto:carlos@quepimquepam.com">carlos@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Juan Luis Buenosvinos</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/juanlu.jpg" width="40" height="40" class="float-left" />
+                En el rincón izquierdo con 78 kilos de peso, calzón rojo, el mejor SOA Client Architect de Oracle, certificado en todo lo certificable en JSE, JEE además de Oracle SOA Architect, experto en arquitecturas SOA, Oracle FusionMiddleware (Oracle WebLogic Server, Oracle Service Bus y Oracle Coherence) y otros servidores de aplicaciones y software libre para la empresa, JuanLuuuu Goodwines.
+                (<a href="mailto:juanluis@quepimquepam.com">juanluis@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <!-- 
+    <post>
+        <title>Daria Bernabei</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/daria.jpg" width="40" height="40" class="float-left" />
+                "Rispeta a la tua mama!", Daria le da forma y colores a todo lo que se nos pasa por la cabeza, desde las splash screens de una aplicación para iPad hasta los wireframes, site navigations, diseño y maquetación de nuestros proyectos más locos.
+                (<a href="mailto:daria@quepimquepam.com">daria@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Dani Peribañez</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/dani.jpg" width="40" height="40" class="float-left" />
+                Dani es un corredor nato y está en una forma estupenda. Arquitecto JAVA y Líder de Proyectos, es incansable, se atreve con todo. Desarrollo o tareas comerciales, le resulta indiferente, piensa, actúa y ejecuta.
+                (<a href="mailto:dani@quepimquepam.com">dani@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    -->
+    <post>
+        <title>Eber Herrera</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/eber.jpg" width="40" height="40" class="float-left" />
+                Eber es nuestro Ingeniero de Frontend más sabrosón del equipo! Un filósofo de Javascript y del AJAX, un amante de la Usabilidad y los dispositivos móviles. Todos lo conocemos como Cañitaman!
+                (<a href="mailto:eber@quepimquepam.com">eber@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Simón Pérez</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/simon.jpg" width="40" height="40" class="float-left" />
+                Simón hace cuadrar las cuentas y además nos ayuda a pensar en cómo dominar el mundo.
+                Licenciado en ADE por la UB y con una dilatadísima experiencia en Auditoría Financiera y Consultoría Empresarial.
+                (<a href="mailto:simon@quepimquepam.com">simon@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Vanessa Esteban</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/vanessa.jpg" width="40" height="40" class="float-left" />
+                Nuestra experta en palabrejas raras, verborrea jurídica y entorno legal en la Red, vamos, nuestra abogada. Licenciada en Derecho por la UB y una magnífica fotógrafa. 
+                (<a href="mailto:vanessa@quepimquepam.com">vanessa@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+    <post>
+        <title>Jordi Rubio</title>
+        <description>
+            <![CDATA[
+                <p>
+                <img src="/images/equipo/jordi.jpg" width="40" height="40" class="float-left" />
+                CTO y Scrum Master en Grupo Intercom Factory. Especialista en Metodologías Ágiles (Scrum, Kanban, XP, etc.)
+                (<a href="mailto:jordi@quepimquepam.com">jordi@quepimquepam.com</a>)
+                </p>
+            ]]>
+        </description>
+    </post>
+</posts>
